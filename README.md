@@ -1,5 +1,5 @@
-# HungerManager
-Seller application for HungryKya with amazing UI and UX keeping in mind Material Design Guidelines. An online food ordering android application with Beautiful UI and UX. Hunger Manager is an Android app developed keeping in mind the beautifulness of the UI and UX. 
+# Hunger Manager
+The seller application for HungryKya with amazing UI and UX keeping in mind Material Design Guidelines. An online food ordering android application with Beautiful UI and UX. Hunger Manager is an Android app developed keeping in mind the beautifulness of the UI and UX. 
 Nowadays, Most seller apps don't have beautiful UI and UX. Now, It all changes, I have developed this Android app as a way to manage 
 my HungryKya application. The app is swift, beautiful, fun and feature-rich. The UI is great and easy for anyone to operate.
 
